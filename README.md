@@ -7,7 +7,7 @@
   <a href="https://medium.com/@saykat-mir">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/xb_saykat">
+  <a href="https://www.hackerrank.com/saykat_mir">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"/>
   </a>
   <a href="https://leetcode.com/u/mrsaykat/">
