@@ -10,7 +10,7 @@
   <a href="https://www.hackerrank.com/saykat_mir">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"/>
   </a>
-  <a href="https://leetcode.com/u/saykat-mir/">
+  <a href="https://leetcode.com/saykat-mir/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
   </a>
   <a href="https://judge.beecrowd.com/en/profile/72697">
