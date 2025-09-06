@@ -18,11 +18,8 @@
   </a>
 </p>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=saykat-mir.saykat-mir)
+I'm a **Senior Software Engineer** specializing in **Android, Jetpack Compose, Flutter and KMP**. I have a strong background in **mobile app development, scalable architecture, and AI-driven solutions**. Working on develop some robust applications used by millions of users. ![visitors](https://visitor-badge.laobi.icu/badge?page_id=saykat-mir.saykat-mir)
 
-I'm a **Senior Software Engineer** specializing in **Android, Jetpack Compose, Flutter and KMP**. I have a strong background in **mobile app development, scalable architecture, and AI-driven solutions**. Currently, I work at **10 Minute School Ltd.**, where I develop robust applications used by millions of users.
-
-- 💼 **Current Workplace:** Senior Software Engineer at 10 Minute School Ltd.
 - 📚 **Currently Exploring:** AI & Machine Learning integration for mobile applications.
 - 🗣️ **Let’s Talk About:** Android, Kotlin, Jetpack Compose, Flutter, KMP, Clean Architecture.
 
@@ -72,9 +69,9 @@ I'm a **Senior Software Engineer** specializing in **Android, Jetpack Compose, F
 
 ## About Me
 
-I am a Senior Software Engineer with a strong background in mobile application development and a deep expertise in Android, particularly using Jetpack Compose and Clean Architecture. With experience leading development for high-traffic apps, I specialize in creating scalable, secure, and high-performing applications for millions of users. My work spans various industries, including telecom, finance, and event management, where I've implemented innovative features like AI-driven face detection, dynamic UIs, and robust modular architectures.
+A strong background in mobile application development and a deep expertise in Android, particularly using Jetpack Compose and Clean Architecture. With experience leading development for high-traffic apps, I specialize in creating scalable, secure, and high-performing applications for millions of users. My work spans various industries, including telecom, finance, and event management, where I've implemented innovative features like AI-driven face detection, dynamic UIs, and robust modular architectures.
 
-A collaborative team player and a dedicated developer, I bring a focus on Test-Driven Development (TDD) to ensure code reliability and maintainability. My recent work with 10 Minute School app and TARA app highlights my commitment to enhancing user experience, security, and app performance. In addition to technical expertise, I have a passion for mentoring, having taught Android development courses and led workshops on modern mobile tech.
+A collaborative team player and a dedicated developer, I bring a focus on Test-Driven Development (TDD) to ensure code reliability and maintainability. In addition to technical expertise, I have a passion for mentoring, having taught Android development courses and led workshops on modern mobile tech.
 
 With a keen interest in solving complex problems and advancing mobile tech, I am continually driven to innovate and deliver impactful solutions in the mobile application landscape.
 
@@ -136,8 +133,8 @@ With a keen interest in solving complex problems and advancing mobile tech, I am
 </table>
 
 ## Github State
-<a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XBSaykat&layout=compact&theme=tokyonight" /></a>
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=XBSaykat&theme=tokyonight" alt="muskanrani" />
+<a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saykat-mir&layout=compact&theme=tokyonight" /></a>
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=saykat-mir&theme=tokyonight" alt="muskanrani" />
 <br/>
 
 
