@@ -18,6 +18,8 @@
   </a>
 </p>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=saykat-mir.saykat-mir)
+
 I'm a **Senior Software Engineer** specializing in **Android, Jetpack Compose, Flutter and KMP**. I have a strong background in **mobile app development, scalable architecture, and AI-driven solutions**. Currently, I work at **10 Minute School Ltd.**, where I develop robust applications used by millions of users.
 
 - 💼 **Current Workplace:** Senior Software Engineer at 10 Minute School Ltd.
