@@ -18,10 +18,12 @@
   </a>
 </p>
 
-I'm a **Senior Software Engineer** specializing in **Android, Jetpack Compose, Flutter and KMP**. I have a strong background in **mobile app development, scalable architecture, and AI-driven solutions**. Working on develop some robust applications used by millions of users. ![visitors](https://visitor-badge.laobi.icu/badge?page_id=saykat-mir.saykat-mir)
+I'm a **Senior Software Engineer** specializing in **Android, Jetpack Compose, Flutter and KMP**. I have a strong background in **mobile app development, scalable architecture, and AI-driven solutions**. Working on develop some robust applications used by millions of users. 
 
 - 📚 **Currently Exploring:** AI & Machine Learning integration for mobile applications.
 - 🗣️ **Let’s Talk About:** Android, Kotlin, Jetpack Compose, Flutter, KMP, Clean Architecture.
+- [![wakatime](https://wakatime.com/badge/user/d6b84dab-0d4a-4369-9d18-95f3df2cb5ec.svg)](https://wakatime.com/@d6b84dab-0d4a-4369-9d18-95f3df2cb5ec)
+- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=saykat-mir.saykat-mir)
 
 <div align="center">
 <img align="center" height="270px" width="600px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif"/><br> 
