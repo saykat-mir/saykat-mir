@@ -22,7 +22,6 @@ I'm a **Senior Software Engineer** specializing in **Android, Jetpack Compose, F
 
 - 📚 **Currently Exploring:** AI & Machine Learning integration for mobile applications.
 - 🗣️ **Let’s Talk About:** Android, Kotlin, Jetpack Compose, Flutter, KMP, Clean Architecture.
-- [![wakatime](https://wakatime.com/badge/user/d6b84dab-0d4a-4369-9d18-95f3df2cb5ec.svg)](https://wakatime.com/@d6b84dab-0d4a-4369-9d18-95f3df2cb5ec)
 - ![visitors](https://visitor-badge.laobi.icu/badge?page_id=saykat-mir.saykat-mir)
 
 <div align="center">
